@@ -1,3 +1,4 @@
+//Wap in Java to add subtract multiply, divide in Java using Inheritance
 class Simple {
     public int add(int a,int b){
         return a+b ;
