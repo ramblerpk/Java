@@ -1,4 +1,4 @@
-//Gtter and setter practice question
+//Gtter and setter practice questions
 class school {
     public String name;
     public char grade;
